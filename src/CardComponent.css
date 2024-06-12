@@ -1,0 +1,48 @@
+.card {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+  }
+  
+  .card h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  .card img {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .link {
+    display: block;
+    color: #007185;
+    text-decoration: none;
+    margin-bottom: 10px;
+  }
+  
+  .item-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .item {
+    width: 45%;
+    text-align: center;
+  }
+  
+  .item img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .item p {
+    font-size: 12px;
+  }
+  
